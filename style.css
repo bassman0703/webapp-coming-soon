@@ -61,3 +61,11 @@ body, html {
   h5{
       color: #000000;
   }
+  .c-position {
+    position: absolute; 
+    top: 90%;
+    right: 5%;
+  }
+  .c-font-size{
+    font-size: 16px;
+  }
